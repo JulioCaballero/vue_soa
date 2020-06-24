@@ -1,4 +1,2 @@
 Prueba Revert
 complicado
-
-Nuevo
